@@ -6,12 +6,12 @@
 
 
 
-##- 🧧 I’m currently working on jarvis script
-##- 🧧 I’m currently learning JavaScript
+>- 🧧 I’m currently working on jarvis script
+>- 🧧 I’m currently learning JavaScript
 
 
 
-##- 📲 Contact me through
+>- 📲 Contact me through
 > [`http://wa.me/919947291867`]
 
 
