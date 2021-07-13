@@ -1,6 +1,6 @@
  Hi there 👋
 <p align="center">
-##ITZ ME SPARROW
+ITZ ME SPARROW
 
 
 
