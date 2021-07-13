@@ -3,10 +3,11 @@
 <img align="right" height="300px" src="https://user-images.githubusercontent.com/82576855/125453498-2bff49d7-42af-466a-b681-0030dab45398.jpg" />
 
 
->- 🧧 I’m currently working on jarvis
->- 🧧 I’m currently learning JavaScript
-
 <img align="center" fit="fill" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+
+>## ABOUT ME
+>- 🧧 Currently working on jarvis
+>- 🧧 Learning JavaScript
 
 
 >## 📲 Contact me through
