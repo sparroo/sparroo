@@ -6,7 +6,7 @@ ITZ ME SPARROW
 
 
 
->- 🧧 I’m currently working on jarvis script
+>- 🧧 I’m currently working on jarvis
 >- 🧧 I’m currently learning JavaScript
 
 
