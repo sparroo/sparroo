@@ -9,8 +9,8 @@
 <img align="center" fit="fill" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
 
->- 📲 Contact me through
->- [`http://wa.me/919947291867`]
+>## 📲 Contact me through
+* [`WhatsApp `](http://wa.me/919947291867)
 
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=sparroo&show_icons=true&theme=radical)
