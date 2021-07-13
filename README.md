@@ -1,6 +1,6 @@
 ## Hello, Itz me [SPARROW](https://wa.me/919947291867)
  
-<img align="right" height="125px" src="https://user-images.githubusercontent.com/82576855/125450821-ad466634-c6af-40f3-9a63-9c144852ae2b.jpg" />
+<img align="right" height="155px" src="https://user-images.githubusercontent.com/82576855/125450821-ad466634-c6af-40f3-9a63-9c144852ae2b.jpg" />
 
 
 >- 🧧 I’m currently working on jarvis
