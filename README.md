@@ -12,7 +12,7 @@
 
 
 >- 📲 Contact me through
-> [`http://wa.me/919947291867`]
+>- [`http://wa.me/919947291867`]
 
 
 -->
