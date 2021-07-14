@@ -1,14 +1,15 @@
 ## Hello, Itz me [SPARROW](https://wa.me/919947291867)
  
-<img align="right" height="300px" src="https://user-images.githubusercontent.com/82576855/125453498-2bff49d7-42af-466a-b681-0030dab45398.jpg" />
+<img align="center" height="300px" src="https://user-images.githubusercontent.com/82576855/125453498-2bff49d7-42af-466a-b681-0030dab45398.jpg" />
 
 
-<img align="center" fit="fill" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
 >## ABOUT ME
 >- 🧧 Currently working on jarvis
 >- 🧧 Learning JavaScript
+>- 🧧 Just some experiments
 
+<img align="center" fit="fill" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
 >## 📲 Contact me through
 * [`WhatsApp `](http://wa.me/919947291867)
