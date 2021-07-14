@@ -17,5 +17,8 @@
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=sparroo&show_icons=true&theme=radical)
 ![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=sparroo&layout=compact&theme=nightowl)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/sparroo/github-readme-stats)
+
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=sparroo&repo=jarvis&theme=dark)
 
